@@ -1,3 +1,9 @@
+To get this deprecated roboschool environments to work : 
+
+python3.6 -m pip install gym==0.15.4
+python3.6 -m pip install roboschool==1.0.48
+
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # DEPRECATED: Please use [PyBullet](https://github.com/openai/gym/blob/master/docs/environments.md#pybullet-robotics-environments) instead
